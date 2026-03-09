@@ -105,8 +105,7 @@ For support with this model, contact Jon Bumstead (jbumstead@mitre.org). For sup
 
 ## Frequently Asked Questions
 
-- Q: Why?
-A: We're trying.
+TBD
 
 ## License
 
@@ -124,5 +123,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 Baille, Loïcka M. R.; Zitterbart, Daniel P. Effectiveness of surface-based detection methods for vessel strike mitigation of North Atlantic right whales. Endangered Species Research. 2022.
 
 Vollmerhausen, Richard H.; Jacobs, Eddie. The Targeting Task Performance (TTP) Metric: A New Model for Predicting Target Acquisition Performance. Technical Report AMSEL-NV-TR-230. 2004.
+
 
 Guazzo, Regina A.; Weller, David W.; Europe, Hollis M.; Durban, John W. Migrating eastern North Pacific gray whale call and blow rates estimated from acoustic recordings, infrared camera video, and visual sightings. Scientific Reports. 2019.
